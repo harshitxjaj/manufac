@@ -1,15 +1,22 @@
-# Getting Started
+# Manufac
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Manufac! This README file will guide you on how to install, run, and build the project.
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/harshitxjaj/manufac
+
+### `yarn install`
+
+Installs the dependencies for the project.
 
 ### `yarn start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -22,12 +29,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the deployed version: https://manufac-zeta.vercel.app/
 
-### `yarn eject`
+![Alt Text](src/assets/screenshot.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, 
